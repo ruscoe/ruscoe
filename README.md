@@ -2,7 +2,7 @@
 
 # Hi, I'm Dan
 
-I'm a software developer with a background in games, web, and API integrations.
+I'm a software developer with a background in games, web development, and API integrations.
 
 Lately I've been working on:
 
