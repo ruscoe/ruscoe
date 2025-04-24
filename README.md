@@ -1,4 +1,4 @@
-![Dan Ruscoe GitHub Header](https://github.com/user-attachments/assets/9cb0979c-690f-4772-a0e8-df34ffa1276f)
+![Dan Ruscoe GitHub Header](https://github.com/user-attachments/assets/9fc95a52-be44-4003-b641-2438a26e13a2)
 
 # Hi, I'm Dan
 
