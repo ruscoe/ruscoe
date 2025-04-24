@@ -1,1 +1,1 @@
-![github-header](https://github.com/user-attachments/assets/bb853356-8703-4f62-93d1-11ee047ea9f1)
+![Dan Ruscoe GitHub Header](https://github.com/user-attachments/assets/9cb0979c-690f-4772-a0e8-df34ffa1276f)
