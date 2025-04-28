@@ -6,9 +6,9 @@ I'm a software developer with a background in games, web development, and API in
 
 ### Lately I've been working on:
 
-* :robot: A PHP [library for the OpenAI API](https://github.com/ruscoe/openai-php)
-* :speech_balloon: A PHP [lightweight web forum](https://github.com/ruscoe/tincan)
-* :skull: A Python [dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+* :robot: A [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)
+* :speech_balloon: A [PHP lightweight web forum](https://github.com/ruscoe/tincan)
+* :skull: A [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
 
 ### I've contributed to:
 
