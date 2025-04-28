@@ -4,13 +4,13 @@
 
 I'm a software developer with a background in games, web development, and API integrations.
 
-**Lately I've been working on:**
+### Lately I've been working on:
 
-* :robot: A [library for the OpenAI API](https://github.com/ruscoe/openai-php) written in PHP
-* :speech_balloon: A [lightweight web forum](https://github.com/ruscoe/tincan) written in PHP
-* :skull: A [dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon) written in Python
+* :robot: A PHP [library for the OpenAI API](https://github.com/ruscoe/openai-php)
+* :speech_balloon: A PHP [lightweight web forum](https://github.com/ruscoe/tincan)
+* :skull: A Python [dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
 
-**I've contributed to:**
+### I've contributed to:
 
 * [10up/simple-page-ordering](https://github.com/10up/simple-page-ordering)
 * [thinkshout/mailchimp-api-php](https://github.com/thinkshout/mailchimp-api-php)
