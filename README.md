@@ -9,6 +9,7 @@ I'm a software developer with a background in games, web development, and API in
 * :robot: A [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)
 * :speech_balloon: A [PHP lightweight web forum](https://github.com/ruscoe/tincan)
 * :skull: A [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+* :video_game: A [TypeScript Mothman game](https://github.com/ruscoe/mothman-rises)
 
 ### I've contributed to:
 
