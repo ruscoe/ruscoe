@@ -4,11 +4,23 @@
 
 I'm a software developer with a background in games, web development, and API integrations.
 
-### Lately I've been working on:
+### I've been working on:
 
-* :robot: A [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)
-* :speech_balloon: A [PHP lightweight web forum](https://github.com/ruscoe/tincan)
-* :skull: A [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+**PHP**
+
+* :robot: [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)
+* :speech_balloon: [PHP lightweight web forum](https://github.com/ruscoe/tincan)
+
+**Python**
+
+* :skull: [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+
+**React**
+
+* :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
+
+**Java**
+
 * :jack_o_lantern: A [Java Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
 
 ### I've contributed to:
