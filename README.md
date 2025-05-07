@@ -15,9 +15,10 @@ I'm a software developer with a background in games, web development, and API in
 
 * :skull: [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
 
-**React**
+**React / TypeScript**
 
 * :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
+* :full_moon: [Mothman game](https://github.com/ruscoe/mothman-rises)
 
 **Java**
 
