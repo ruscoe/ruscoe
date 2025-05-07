@@ -21,7 +21,7 @@ I'm a software developer with a background in games, web development, and API in
 
 **Java**
 
-* :jack_o_lantern: [Java Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
+* :jack_o_lantern: [Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
 
 ### I've contributed to:
 
