@@ -13,7 +13,8 @@ I'm a software developer with a background in games, web development, and API in
 
 **Python**
 
-* :skull: [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+* :skull: [dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
+* :rotating_light: [Amber Alert reader](https://github.com/ruscoe/amber-alert)
 
 **React / TypeScript**
 
