@@ -8,8 +8,8 @@ I'm a software developer with a background in games, web development, and API in
 
 **PHP**
 
-* :robot: [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)
-* :speech_balloon: [PHP lightweight web forum](https://github.com/ruscoe/tincan)
+* :robot: [Library for the OpenAI API](https://github.com/ruscoe/openai-php)
+* :speech_balloon: [Lightweight web forum](https://github.com/ruscoe/tincan)
 
 **Python**
 
@@ -21,7 +21,7 @@ I'm a software developer with a background in games, web development, and API in
 
 **Java**
 
-* :jack_o_lantern: A [Java Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
+* :jack_o_lantern: [Java Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
 
 ### I've contributed to:
 
