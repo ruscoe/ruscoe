@@ -20,6 +20,10 @@ I'm a software developer with a background in games, web development, and API in
 
 * :books: [Book logging app](https://github.com/ruscoe/bookmark)
 
+**JavaScript**
+
+* :file_folder: [Library that adds emoji to file links](https://github.com/ruscoe/filemoji)
+
 **React / TypeScript**
 
 * :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
