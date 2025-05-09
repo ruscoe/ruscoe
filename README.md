@@ -16,6 +16,10 @@ I'm a software developer with a background in games, web development, and API in
 * :skull: [Dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
 * :rotating_light: [Amber Alert reader](https://github.com/ruscoe/amber-alert)
 
+**Rails**
+
+* :books: [Book logging app](https://github.com/ruscoe/bookmark)
+
 **React / TypeScript**
 
 * :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
