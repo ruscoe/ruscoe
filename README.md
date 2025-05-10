@@ -14,24 +14,19 @@ I'm a software developer with a background in games, web development, and API in
 **Python**
 
 * :skull: [Dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
-* :rotating_light: [Amber Alert reader](https://github.com/ruscoe/amber-alert)
 
 **Rails**
 
 * :books: [Book logging app](https://github.com/ruscoe/bookmark)
 
-**JavaScript**
+**JavaScript / TypeScript**
 
 * :file_folder: [Library that adds emoji to file links](https://github.com/ruscoe/filemoji)
-
-**React / TypeScript**
-
-* :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
 * :full_moon: [Mothman game](https://github.com/ruscoe/mothman-rises)
 
-**Java**
+**React**
 
-* :jack_o_lantern: [Halloween prop generator](https://github.com/ruscoe/halloween-propgen)
+* :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
 
 ### I've contributed to:
 
