@@ -19,6 +19,10 @@ I'm a software developer with a background in games, web development, and API in
 
 * :books: [Book logging app](https://github.com/ruscoe/bookmark)
 
+**Node.js**
+
+* :computer: [Server that provides Linux 'top' output as JSON](https://github.com/ruscoe/topjs)
+
 **JavaScript / TypeScript**
 
 * :file_folder: [Library that adds emoji to file links](https://github.com/ruscoe/filemoji)
