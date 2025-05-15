@@ -4,35 +4,9 @@
 
 I'm a software developer with a background in games, web development, and API integrations.
 
-### I've been working on:
+**I've been working on** a [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php), a [JavaScript library that adds emoji to file links](https://github.com/ruscoe/filemoji), an opinionated [PHP issue sniffer written in Rust](https://github.com/ruscoe/php-hound) and, just for fun, a [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon).
 
-**PHP**
-
-* :robot: [Library for the OpenAI API](https://github.com/ruscoe/openai-php)
-* :speech_balloon: [Lightweight web forum](https://github.com/ruscoe/tincan)
-
-**Python**
-
-* :skull: [Dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)
-
-**Rails**
-
-* :books: [Book logging app](https://github.com/ruscoe/bookmark)
-
-**Node.js**
-
-* :computer: [Server that provides Linux 'top' output as JSON](https://github.com/ruscoe/topjs)
-
-**JavaScript / TypeScript**
-
-* :file_folder: [Library that adds emoji to file links](https://github.com/ruscoe/filemoji)
-* :full_moon: [Mothman game](https://github.com/ruscoe/mothman-rises)
-
-**React**
-
-* :alien: [Random cryptid app](https://github.com/ruscoe/cryptids)
-
-### I've contributed to:
+**I've contributed to:**
 
 * [10up/simple-page-ordering](https://github.com/10up/simple-page-ordering)
 * [thinkshout/mailchimp-api-php](https://github.com/thinkshout/mailchimp-api-php)
