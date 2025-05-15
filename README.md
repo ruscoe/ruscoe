@@ -4,7 +4,7 @@
 
 I'm a software developer with a background in games, web development, and API integrations.
 
-**I've been working on** a [PHP library for the OpenAI API](https://github.com/ruscoe/openai-php), a [JavaScript library that adds emoji to file links](https://github.com/ruscoe/filemoji), an opinionated [PHP issue sniffer written in Rust](https://github.com/ruscoe/php-hound) and, just for fun, a [Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon).
+**I've been working on** a **[PHP library for the OpenAI API](https://github.com/ruscoe/openai-php)**, a **[JavaScript library that adds emoji to file links](https://github.com/ruscoe/filemoji)**, an opinionated **[PHP issue sniffer written in Rust](https://github.com/ruscoe/php-hound)** and, just for fun, a **[Python dungeon crawler game engine](https://github.com/ruscoe/dans-dungeon)**.
 
 **I've contributed to:**
 
