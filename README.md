@@ -12,6 +12,7 @@ and, just for fun, a **[Python dungeon crawler game engine](https://github.com/r
 
 **I've contributed to:**
 
+* [readmeio/marketplace](https://github.com/readmeio/marketplace)
 * [10up/simple-page-ordering](https://github.com/10up/simple-page-ordering)
 * [thinkshout/mailchimp-api-php](https://github.com/thinkshout/mailchimp-api-php)
 * [echo-lalia/MicroHydra-Apps](https://github.com/echo-lalia/MicroHydra-Apps)
